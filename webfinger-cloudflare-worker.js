@@ -1,3 +1,4 @@
+// This implements https://en.wikipedia.org/wiki/WebFinger for multiple accounts
 // Based off of https://developers.cloudflare.com/workers/examples/bulk-redirects/
 // Based off of https://developers.cloudflare.com/workers/examples/return-json/
 // and whatever the third(?) google result for "cloudflare worker query string" was
